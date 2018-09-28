@@ -1,0 +1,14 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "simple typescript program",
+  "main": "index.js",
+  "scripts": {
+    "test": "testfile"
+  },
+  "keywords": [
+    "\"typescript\""
+  ],
+  "author": "rishabhmalhotra",
+  "license": "ISC"
+}
